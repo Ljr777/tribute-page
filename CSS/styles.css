@@ -1,0 +1,82 @@
+body{
+  background-color: #FFFFFF;
+}
+
+ul li{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.theMan{
+  font-size: 1rem;
+  font-weight: 400;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.overall-main{
+  background-color: #e1e3e1;
+  border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+  margin: 1.5rem 0.5rem;
+}
+.head{
+  padding-top: 3rem;
+  text-align: center;
+}
+.norman{
+  background-color:#FFFFFF;
+  text-align: center;
+  margin: 1rem;
+  position: relative;
+  max-width: 100%;
+  height: auto;
+
+}
+
+.imgb{
+  display: block;
+  text-align: center;
+
+}
+.img-text{
+  font-size: 1.2rem;
+  font-weight: 300;
+  margin-top: 1rem;
+  padding-bottom: 0.5rem;
+}
+.head-line{
+  margin: 1.5rem;
+  text-align:center;
+}
+.time-line{
+  display: block;
+  text-align:justify;
+  list-style-position: inside;
+  height: auto;
+  width: 50%;
+  justify-content: center;
+  margin: auto;
+}
+.prime-minister{
+  font-style: italic;
+  display: block;
+  text-align:justify;
+  height: auto;
+  width: 50%;
+  justify-content: center;
+  margin: 3rem auto 3rem;
+  padding-left: 1.8rem;
+}
+.prime{
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+.diffGravy{
+  font-size: 1.2rem;
+  font-weight: 700;
+  padding-bottom: 2rem;
+  margin-left: auto;
+  text-align: center;
+}
+a{
+  color: #800080;
+}
